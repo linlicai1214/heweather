@@ -1,0 +1,11 @@
+{
+  "domain": "heweather",
+  "name": "HeWeather",
+  "config_flow": true,
+  "documentation": "https://github.com/linlicai0110/heweather",
+  "requirements": [],
+  "codeowners": ["@llc"],
+  "iot_class": "cloud_polling",
+  "loggers": ["heweather"],
+  "version": "1.0.0"
+}

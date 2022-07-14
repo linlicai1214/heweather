@@ -1,0 +1,29 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "API Key",
+                    "location": "Location",
+                    "name": "Name",
+                    "city_select": "City Select"
+                }
+            }
+        },
+        "error": {
+            "cannot_connect": "Http connect error.",
+            "invalid_api_key": "Authentication failed, the wrong KEY may be used,no access permission.",
+            "request_error": "Request error, not getting correct data."
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "forecast": "Weather forecast",
+                    "scan_interval": "Refresh Interval(min)"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "config": {
+        "abort": {
+            "no_home": "Home Assistant \u672a\u8a2d\u5b9a\u4f4f\u5bb6\u5ea7\u6a19"
+        },
+        "error": {
+            "cannot_connect": "\u7db2\u7d61\u9023\u63a5\u932f\u8aa4",
+            "invalid_api_key": "\u8a8d\u8b49\u5931\u6557\uff0c\u53ef\u80fd\u4f7f\u7528\u4e86\u932f\u8aa4\u7684\u004b\u0045\u0059\u6216\u7121\u8a2a\u554f\u6b0a\u9650",
+            "request_error": "\u8acb\u6c42\u932f\u8aa4\uff0c\u672a\u7372\u5f97\u6b63\u78ba\u6578\u64da\u3002"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "API Key",
+                    "location": "\u57ce\u5e02",
+                    "name": "\u540d\u7a31",
+                    "city_select": "\u57ce\u5e02\u9078\u64c7"
+                }
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "forecast": "\u5929\u6c23\u9810\u5831",
+                    "scan_interval": "\u5237\u65b0\u6642\u9593\u0028\u5206\u9418\u0029"
+                }
+            }
+        }
+    }
+}
